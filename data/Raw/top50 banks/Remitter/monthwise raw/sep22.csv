@@ -1,0 +1,51 @@
+Sr.No.,UPI Remitter Banks,Total Volume (In Mn),Approved %,BD %	,	TD%,Total Debit Reversal Count (In Mn),Debit Reversal Success %
+1,State Bank Of India,1865.75,90.39%,6.77%,2.84%,11.29,84.70%
+2,HDFC Bank Ltd,610.12,94.46%,5.41%,0.13%,2.39,98.02%
+3,Bank of Baroda,450.27,92.95%,6.80%,0.24%,1.69,97.38%
+4,Union Bank of India,420.12,90.65%,7.79%,1.56%,1.95,63.86%
+5,ICICI Bank,370.12,94.07%,4.86%,1.06%,1.35,82.90%
+6,Axis Bank Ltd,344.25,95.55%,4.36%,0.09%,1.07,85.73%
+7,Paytm Payments Bank,340.75,95.83%,4.13%,0.04%,0.78,96.59%
+8,Punjab National Bank,318.28,91.99%,5.65%,2.35%,2.77,77.72%
+9,Canara Bank,305.88,90.83%,7.01%,2.16%,2.2,81.45%
+10,Kotak Mahindra Bank,300.14,93.56%,5.65%,0.79%,1.2,93.25%
+11,Bank of India,236.49,94.42%,4.71%,0.87%,0.98,75.37%
+12,Indian Bank,175.26,91.75%,5.94%,2.31%,1.06,72.57%
+13,Airtel Payments Bank,131.86,78.70%,18.19%,3.11%,0.69,65.62%
+14,India Post Payment Bank,119.05,65.85%,25.08%,9.07%,0.6,44.49%
+15,Central Bank Of India,114.42,85.79%,9.92%,4.29%,0.85,37.93%
+16,Federal Bank,111.27,94.17%,5.54%,0.29%,0.44,91.32%
+17,Yes Bank Ltd,99.75,90.60%,9.12%,0.28%,0,0.00%
+18,IDBI Bank Limited,91.74,94.52%,4.12%,1.36%,0.51,82.09%
+19,Indian Overseas Bank,88.59,93.81%,5.36%,0.83%,0.47,94.43%
+20,Bank of Maharashtra,83.51,89.86%,6.31%,3.83%,0.52,61.31%
+21,UCO Bank,79.57,90.40%,6.21%,3.39%,0.54,47.69%
+22,IndusInd Bank,61.95,92.65%,6.92%,0.43%,0.27,84.22%
+23,Karnataka Bank,60.11,86.87%,7.17%,5.96%,0.22,24.61%
+24,IDFC FIRST Bank,50.04,90.32%,5.89%,3.78%,0.16,36.19%
+25,Fino Payments Bank,49.9,77.01%,15.14%,7.85%,0.81,72.43%
+26,Karur Vysya Bank,38.75,91.71%,7.47%,0.82%,0.19,87.45%
+27,Bandhan Bank,32.04,76.81%,19.57%,3.63%,0.35,88.01%
+28,South Indian Bank,28.73,93.47%,6.40%,0.13%,0.08,89.45%
+29,Equitas Small Finance Bank,22.35,77.94%,13.56%,8.50%,0.18,52.40%
+30,City Union Bank,21.09,92.20%,6.77%,1.03%,0.08,95.35%
+31,Ujjivan Small Finance Bank,18.79,86.62%,7.05%,6.33%,0.1,46.98%
+32,AU small Finance Bank,18.54,91.06%,6.29%,2.66%,0,0.07%
+33,Punjab and Sind Bank,18.02,88.30%,10.84%,0.86%,0.1,73.20%
+34,Jammu and Kashmir Bank,17.61,89.86%,7.12%,3.02%,0.11,73.74%
+35,Citibank,17.22,95.43%,4.03%,0.54%,0.05,89.64%
+36,Tamilnad Mercantile Bank,17.19,92.41%,7.45%,0.14%,0.04,77.82%
+37,Standard Chartered,16.99,96.09%,2.82%,1.09%,0.07,84.82%
+38,DBS Bank Ltd,16.59,94.33%,4.72%,0.96%,0.07,93.51%
+39,Maharashtra Gramin Bank,16.48,58.81%,22.10%,19.09%,0.04,6.69%
+40,Andhra Pradesh Grameena Vikas Bank,15.32,66.53%,19.54%,13.93%,0.07,10.73%
+41,Pragathi Krishna Gramin Bank,15.28,83.90%,12.18%,3.92%,0.13,72.67%
+42,Saraswat Bank,13.3,95.98%,3.71%,0.31%,0.04,92.15%
+43,ESAF Small Finance Bank Ltd.,11.74,73.49%,25.05%,1.46%,0.06,86.86%
+44,Rajasthan Marudhara Gramin Bank,11.61,75.00%,11.50%,13.50%,0.04,8.06%
+45,Kerala Gramin Bank,10.72,86.06%,11.28%,2.66%,0.05,60.99%
+46,Sarva Haryana Gramin Bank,10.24,70.80%,21.62%,7.58%,0.09,74.70%
+47,Andhra Pragathi Grameena Bank,9.35,75.51%,15.02%,9.47%,0.25,84.78%
+48,RBL Bank,9,89.83%,8.40%,1.77%,0.06,80.10%
+49,Baroda UP Gramin Bank,7.74,72.18%,10.69%,17.13%,0.06,46.25%
+50,Baroda Rajasthan Kshetriya Gramin Bank,7.27,87.24%,9.01%,3.74%,0.04,56.52%
